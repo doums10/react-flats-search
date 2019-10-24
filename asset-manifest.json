@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-flats-search/static/css/main.755870d9.chunk.css",
+    "main.js": "/react-flats-search/static/js/main.4add29b8.chunk.js",
+    "main.js.map": "/react-flats-search/static/js/main.4add29b8.chunk.js.map",
+    "runtime-main.js": "/react-flats-search/static/js/runtime-main.4201e137.js",
+    "runtime-main.js.map": "/react-flats-search/static/js/runtime-main.4201e137.js.map",
+    "static/js/2.9fcf7012.chunk.js": "/react-flats-search/static/js/2.9fcf7012.chunk.js",
+    "static/js/2.9fcf7012.chunk.js.map": "/react-flats-search/static/js/2.9fcf7012.chunk.js.map",
+    "index.html": "/react-flats-search/index.html",
+    "precache-manifest.506277d956e47d5a34512b0b2b5c0709.js": "/react-flats-search/precache-manifest.506277d956e47d5a34512b0b2b5c0709.js",
+    "service-worker.js": "/react-flats-search/service-worker.js",
+    "static/css/main.755870d9.chunk.css.map": "/react-flats-search/static/css/main.755870d9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4201e137.js",
+    "static/js/2.9fcf7012.chunk.js",
+    "static/css/main.755870d9.chunk.css",
+    "static/js/main.4add29b8.chunk.js"
+  ]
+}
